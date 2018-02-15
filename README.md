@@ -1,5 +1,8 @@
 # hello-world
-test project
+test project; ignore
 
+---
 ### ABOUT ME
 high school student || pro table hockey player || game developer
+
+---
