@@ -3,6 +3,6 @@ test project; ignore
 
 ---
 ### ABOUT ME
-high school student || pro table hockey player || game developer
+high school student || pro ~table~ *rod* hockey player || game developer
 
 ---
